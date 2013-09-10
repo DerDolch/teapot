@@ -24,7 +24,7 @@ Gem::Specification.new do |gem|
 	gem.required_ruby_version = '>= 1.9.3'
 
 	gem.add_dependency "rainbow"
-	gem.add_dependency "rexec"
+	gem.add_dependency "rexec", "~> 1.6.0"
 	gem.add_dependency "trollop"
 	gem.add_dependency "facter"
 
