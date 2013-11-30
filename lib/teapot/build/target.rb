@@ -27,7 +27,6 @@ require 'fileutils'
 
 require 'teapot/build/linker'
 require 'teapot/build/component'
-require 'teapot/build/file_list'
 
 module Teapot
 	module Build
