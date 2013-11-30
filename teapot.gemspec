@@ -26,7 +26,7 @@ Gem::Specification.new do |gem|
 	gem.add_dependency "rainbow"
 	gem.add_dependency "rexec", "~> 1.6.0"
 	gem.add_dependency "trollop"
-	gem.add_dependency "facter"
+	gem.add_dependency "system"
 	
 	# This could be a good option in the future for teapot fetch:
 	#gem.add_dependency "rugged"
